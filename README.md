@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for building a Vision-Based Attendance System. The system utilizes computer vision techniques, particularly the MTCNN (Multi-task Cascaded Convolutional Networks) face detection algorithm, to automate the attendance tracking process by recognizing individuals from images or video streams. This README provides an overview of the use case, the steps involved in creating the system, and the advantages and disadvantages of using MTCNN for this purpose.
 
-<img src="download.png" alt="workflow" width="100%" > <br>
+<img src="download.jpg" alt="workflow" width="100%" > <br>
 
 ### Setting up Project Environment :
 
@@ -89,6 +89,7 @@ MTCNN is chosen for this attendance system due to its exceptional accuracy in fa
 
 <img src="Image1.png" alt="workflow" width="100%" > <br>
 <img src="Image2.png" alt="workflow" width="100%" > <br>
+<img src="Image3.png" alt="workflow" width="100%" > <br>
 
 ### AUTHOR
 <hr>
